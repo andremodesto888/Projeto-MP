@@ -1,0 +1,2 @@
+O programa deve ser executado usando Python 3.10 e qualquer interpretador. O desenvolvimento do programa foi feito
+utilizando o pytest e o pylint.
