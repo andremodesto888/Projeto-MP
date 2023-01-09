@@ -1,0 +1,13 @@
+Casos de Teste
+
+1)'00001000','01000000','00010000','00000010','00100000','00000001','00000100','10000000'
+O resultado desse teste é 1, logo essa entrada é uma das soluções do problema e nenhuma rainha ataca as outras.
+	
+2)'00001000','01000000','00010000','00000010','00100000','00000001','00000100','01000000'
+O resultado desse teste é 0, logo essa entrada não é uma das soluções do problema.
+
+3)'0000100', '1000000', '0100000','0010000','0001000','0000010','0000001'
+O resultado desse teste é inválido, pois o tabuleiro não é 8x8.
+
+4)'00000000', '10000000', '01000000', '00100000', '00010000', '00001000', '00000100', '00000010' 
+O resultado desse teste é inválido, pois não existem 8 rainhas
